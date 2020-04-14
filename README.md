@@ -19,7 +19,7 @@ Please reload application after any configuration chanages.
 
 
 
-See also Reload Task Button https://github.com/nphinityapp/ReloadTaskButton
+See also Reload Task Button https://github.com/inphinityapp/ReloadTaskButton
 
 Example of needed security rule:
 
