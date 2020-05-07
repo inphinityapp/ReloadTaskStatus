@@ -29,10 +29,14 @@ Action: Read
 ```
 ![alt text](https://github.com/inphinityapp/ReloadTaskStatus/blob/master/images/RTS_rule.png)
 
+
 Demo:
+
 ![alt text](https://github.com/inphinityapp/ReloadTaskStatus/blob/master/images/reload_task_showcase.gif)
 
+
 Application example:
+
 ![alt text](https://github.com/inphinityapp/ReloadTaskStatus/blob/master/images/reload_task_showcase.png)
 
 Tested Qlik Sense Version: Qlik Sense April 2018 and newer
